@@ -17,4 +17,4 @@ La ejecución se puede pausar y reanudar presionando la tecla ESCAPE.
 
 ## Código
 
-El código principal se encuentra en `autoclick.java`:
+El código principal se encuentra en la carpeta src, en el archivo `autoclick.java`:
