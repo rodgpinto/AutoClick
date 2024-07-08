@@ -17,7 +17,7 @@ Execution can be paused and resumed by pressing the ESCAPE key.
 
 ## Code
 
--The main code is located in the src folder, in the autoclick.java file
+-The main code is located in the src folder, file: `autoclick.java`
 
 -----------------------------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ La ejecución se puede pausar y reanudar presionando la tecla ESCAPE.
 
 ## Código
 
--El código principal se encuentra en la carpeta src, en el archivo `autoclick.java`:
+-El código principal se encuentra en la carpeta src, en el archivo: `autoclick.java`
