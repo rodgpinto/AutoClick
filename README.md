@@ -1,4 +1,4 @@
-#AutoClicker
+# AutoClicker
 
 This project is a Java autoclicker application that performs automatic mouse clicks.
 
